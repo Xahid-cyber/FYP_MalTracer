@@ -98,3 +98,14 @@ MalTracer performs **static, non-execution analysis only**. It is designed as a 
 **Department of Computer Science**  
 Sindh Madressatul Islam University, Karachi
 
+
+## Screenshots
+
+### Analysis Dashboard
+![Dashboard](docs/screenshots/dashboard.png)
+
+### ML Behavioral Report
+![ML Report](docs/screenshots/ml-report.png)
+
+### Queue Monitor
+![Queue](docs/screenshots/queue-monitor.png)
